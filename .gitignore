@@ -1,6 +1,8 @@
 #Ignore data directories
 UCMerced_LandUse/
 EuroSAT_RGB/
+EuroSAT_RGB.zip
+UCMerced_LandUse.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
